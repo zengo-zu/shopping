@@ -3,8 +3,8 @@
 <%@include file="../header.html" %>
 
 購入するには
-<a href="../chapter24/login-in.jsp">ログイン</a>
+<a href="../function/login-in.jsp">ログイン</a>
 してださい。
 
 
-<%@include file="../footer.html" %>b
+<%@include file="../footer.html" %>
