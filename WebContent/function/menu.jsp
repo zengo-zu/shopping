@@ -1,9 +1,9 @@
 <%@page pageEncoding="UTF-8" %>
 
-<a href="../chapter25/Product.action">商品</a>
-<a href="../chapter25/cart.jsp">カート</a>
-<a href="../chapter25/Preview.action">購入</a>
-<a href="../chapter25/login-in.jsp">ログイン</a>
-<a href="../chapter25/logout-in.jsp">ログアウト</a>
+<a href="../function/Product.action">商品</a>
+<a href="../function/cart.jsp">カート</a>
+<a href="../function/Preview.action">購入</a>
+<a href="../function/login-in.jsp">ログイン</a>
+<a href="../function/logout-in.jsp">ログアウト</a>
 
 <hr>

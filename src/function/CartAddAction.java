@@ -46,5 +46,4 @@ public class CartAddAction extends Action{
 		}
 		return "cart.jsp";
 	}
-
 }
