@@ -22,4 +22,4 @@
 </c:forEach>
 </table>
 
-<%@include file="../footer.html" %>a
+<%@include file="../footer.html" %>b

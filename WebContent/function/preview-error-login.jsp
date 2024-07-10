@@ -7,4 +7,4 @@
 してださい。
 
 
-<%@include file="../footer.html" %>a
+<%@include file="../footer.html" %>b
